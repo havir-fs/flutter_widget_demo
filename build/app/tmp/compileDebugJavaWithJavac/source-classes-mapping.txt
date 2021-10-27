@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+dev/deriv/besquare_flutter_widgets_final/BuildConfig.java
+ dev.deriv.besquare_flutter_widgets_final.BuildConfig
